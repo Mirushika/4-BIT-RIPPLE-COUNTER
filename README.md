@@ -24,17 +24,45 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram
 
 **PROGRAM**
 
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
- Developed by: RegisterNumber:
+ Developed by: Mirushika .T     RegisterNumber: 24901203
 */
+
+
+![Screenshot 2024-12-11 211230](https://github.com/user-attachments/assets/80ae69f1-e104-466c-a10c-a25d9d37d77e)
+
+
+![Screenshot 2024-12-11 185711](https://github.com/user-attachments/assets/ec4639df-6958-48b2-a6c9-3f8d48831801)
+
+
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
+
+![Screenshot 2024-12-11 185731](https://github.com/user-attachments/assets/24f1c416-c24d-4239-afb3-f1f688113aa2)
+
+
+
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
+
+![Screenshot 2024-12-11 211343](https://github.com/user-attachments/assets/0d0709ce-6157-4a42-a27c-83e3b8689734)
+
+
 **RESULTS**
+
+The implemented  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables is verified.
+
